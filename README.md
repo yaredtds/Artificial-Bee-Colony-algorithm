@@ -1,2 +1,2 @@
-# Artificial-Bee-Colony-algorithm
-Artificial bee colony algorithm to solve a global optimization (minimization) problem
+# ABC-in-Python
+The Artificial Bee Colony Algorithn in Python3
